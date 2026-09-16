@@ -6,8 +6,6 @@ Security engineer building AI tooling for digital forensics and incident respons
 
 I design and build whatever comes to my mind. 
 
-My main tech stack is Python, Java, MongoDB, and Linux. 
-
 Reach out to me on LinkedIn if you want to connect or talk further!
 
 <!--
