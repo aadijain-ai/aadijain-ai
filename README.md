@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Aadi 👋
+
+Security engineer building AI tooling for digital forensics and incident response. M.S. in Information Security from Carnegie Mellon ('26) and B.S. in Cybersecurity & Networking from Purdue ('24).
+
+🔎 Open to roles in security, cloud, and applied AI, anywhere in the US.
+
+I design and build whatever comes to my mind. 
+
+My main tech stack is Python, Java, MongoDB, and Linux. 
+
+Reach out to me on LinkedIn if you want to connect or talk further!
 
 <!--
 **aadijain-ai/aadijain-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
