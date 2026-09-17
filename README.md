@@ -1,5 +1,7 @@
 ## Hi, I'm Aadi 👋
 
+This is my brand new Github account that I decided to make to have a fresh start. I have contributed a lot in my old accounts and repo, if you are wondering. 
+
 Security engineer building AI tooling for digital forensics and incident response. M.S. in Information Security from Carnegie Mellon ('26) and B.S. in Cybersecurity & Networking from Purdue ('24).
 
 🔎 Open to roles in security, cloud, and applied AI, anywhere in the US.
